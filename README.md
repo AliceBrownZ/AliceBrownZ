@@ -1,16 +1,10 @@
-- 👋 Hi, I’m @AliceBrownZ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 基本信息
-姓名：Alice Brown
-性别：女
-出生年份：2002
-学历：研究生
-兴趣爱好
+
+## - 基本信息
+- 姓名：Alice Brown
+- 性别：女
+- 出生年份：2002
+- 学历：研究生
+- 兴趣爱好
 作为一个对多样化事物充满好奇心的人，我有各种各样的兴趣爱好。下面是一些我特别喜欢的活动和爱好：
 
 阅读：我热衷于阅读各种类型的书籍，包括小说、历史、心理学、科学等。阅读不仅扩展了我的知识面，还帮助我提高了思考和表达能力。
